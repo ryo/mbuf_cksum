@@ -1,0 +1,33 @@
+r0	ZERO	constant zero
+r1	AST	assembler temp
+r2	V0	function return
+r3	V1	function return
+r4	A0	incoming args
+r5	A1	incoming args
+r6	A2	incoming args
+r7	A3	incoming args
+r8	T0	temporaries
+r9	T1	temporaries
+r10	T2	temporaries
+r11	T3	temporaries
+r12	T4	temporaries
+r13	T5	temporaries
+r14	T6	temporaries
+r15	T7	temporaries
+r16	S0	saved temporaries
+r17	S1	saved temporaries
+r18	S2	saved temporaries
+r19	S3	saved temporaries
+r20	S4	saved temporaries
+r21	S5	saved temporaries
+r22	S6	saved temporaries
+r23	S7	saved temporaries
+r24	T8	temporaries
+r25	T9	temporaries
+r26	K0	exception handling
+r27	K1	exception handling
+r28	GP	global data pointer
+r29	SP	stack pointer
+r30	S8	saved temporaries
+r31	RA	return address
+r32	SR	status register
